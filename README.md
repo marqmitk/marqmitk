@@ -1,15 +1,27 @@
 <img src="https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif" width="2000" height="300" />
 
 
+
 <h1 align="center">Marco Kutscha</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Student-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</p>
-<p align="center">
+    
 <img src="https://img.shields.io/badge/NeoVim User-g?&style=for-the-badge&logo=neovim&logoColor=green&color=444444"/>
 </p>
 
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Bachelor-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white"  width=150px />
+    <img src="https://geps.dev/progress/66" width=170px/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Master-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white&color=ff6961" width=80px/>
+    <img src="https://geps.dev/progress/0"  width=110px/>
+</p>
+
+---
 
 
 ```c#
