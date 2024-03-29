@@ -45,3 +45,4 @@ Contributions
 </h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mistricky&repo=codesnap.nvim)](https://github.com/mistricky/codesnap.nvim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvim-pack&repo=nvim-spectre)](https://github.com/nvim-pack/nvim-spectre)
