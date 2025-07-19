@@ -13,7 +13,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Bachelor-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white"  width=150px />
-    <img src="https://geps.dev/progress/66" width=170px/>
+    <img src="https://geps.dev/progress/88" width=170px/>
 </p>
 
 <p align="center">
